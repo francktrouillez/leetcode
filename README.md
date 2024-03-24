@@ -4,13 +4,13 @@ LeetCode proposed solutions by Franck Trouillez
 
 ## Challenges
 - [x] [1. Two Sum](https://leetcode.com/problems/two-sum/)
-  - [Ruby implementation](problems/1.%20Two%20Sum/ruby/script1.rb)
+  - [Ruby implementation](1.%20Two%20Sum/ruby/script1.rb)
 - [x] [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
-  - [Ruby implementation](problems/2.%20Add%20Two%20Numbers/ruby/script2.rb)
+  - [Ruby implementation](2.%20Add%20Two%20Numbers/ruby/script2.rb)
 - [x] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-  - [Ruby implementation](problems/3.%20Longest%20Substring%20Without%20Repeating%20Characters/ruby/script1.rb)
+  - [Ruby implementation](3.%20Longest%20Substring%20Without%20Repeating%20Characters/ruby/script1.rb)
 - [x] [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-  - [Ruby implementation](problems/4.%20Median%20of%20Two%20Sorted%20Arrays/ruby/script1.rb)
+  - [Ruby implementation](4.%20Median%20of%20Two%20Sorted%20Arrays/ruby/script1.rb)
 - [ ] [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [ ] [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 - [ ] [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
