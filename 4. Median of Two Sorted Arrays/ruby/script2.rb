@@ -1,8 +1,5 @@
 # Problem: 4. Median of Two Sorted Arrays
 #
-# There are two sorted arrays nums1 and nums2 of size m and n respectively.
-# Find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).
-#
 # The idea is to merge the two arrays, sort them, and then find the median by taking the middle element.
 # The merge here is a custom implementation to take advantage of the fact that the arrays are already sorted.
 

@@ -1,7 +1,5 @@
 # Problem: 3. Longest Substring Without Repeating Characters
 #
-# Given a string s, find the length of the longest substring without repeating characters.
-#
 # The idea is to keep track of the start of the substring and the index of the last seen character.
 # If the current character has been seen before and the last seen index is greater than the start of the substring,
 # then we update the start of the substring to the index of the last seen character + 1, because it is a

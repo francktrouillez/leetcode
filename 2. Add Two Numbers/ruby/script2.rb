@@ -1,8 +1,5 @@
 # Problem: 2. Add Two Numbers
 #
-# You are given two non-empty linked lists representing two non-negative integers.
-# The digits are stored in reverse order, and each of their nodes contains a single digit.
-#
 # The idea of the solution is to iterate over the linked lists and add the values of the nodes.
 # We also need to keep track of the carry value, which is the sum divided by 10.
 # The sum of the two nodes is the sum of the values of the nodes plus the carry value.

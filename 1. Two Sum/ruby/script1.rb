@@ -1,8 +1,5 @@
 # Problem: 1. Two Sum
 #
-# Given an array of integers, return indices of the two numbers
-# such that they add up to a specific target.
-#
 # The idea of the solution is to iterate over the array and store
 # the difference between the target and the current number in a hash.
 # If the difference is found in the hash, we return the indices of

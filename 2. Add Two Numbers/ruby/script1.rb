@@ -1,8 +1,5 @@
 # Problem: 2. Add Two Numbers
 #
-# You are given two non-empty linked lists representing two non-negative integers.
-# The digits are stored in reverse order, and each of their nodes contains a single digit.
-#
 # The idea of the solution is to convert the linked lists to integers, sum them, and convert the result back to a linked list.
 
 # Definition for singly-linked list.
