@@ -24,6 +24,7 @@ LeetCode proposed solutions by Franck Trouillez
 - [x] [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
   - [Ruby implementation](10.%20Regular%20Expression%20Matching/ruby/script1.rb)
 - [ ] [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+  - [Ruby implementation](11.%20Container%20With%20Most%20Water/ruby/script1.rb)
 - [ ] [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 - [ ] [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 - [ ] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
