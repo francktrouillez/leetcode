@@ -26,6 +26,7 @@ LeetCode proposed solutions by Franck Trouillez
 - [ ] [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
   - [Ruby implementation](11.%20Container%20With%20Most%20Water/ruby/script1.rb)
 - [ ] [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+  - [Ruby implementation](12.%20Integer%20to%20Roman/ruby/script1.rb)
 - [ ] [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 - [ ] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [ ] [15. 3Sum](https://leetcode.com/problems/3sum/)
