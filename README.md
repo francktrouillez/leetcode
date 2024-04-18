@@ -30,6 +30,7 @@ LeetCode proposed solutions by Franck Trouillez
 - [ ] [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
   - [Ruby implementation](13.%20Roman%20to%20Integer/ruby/script1.rb)
 - [ ] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+  - [Ruby implementation](14.%20Longest%20Common%20Prefix/ruby/script1.rb)
 - [ ] [15. 3Sum](https://leetcode.com/problems/3sum/)
 - [ ] [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 - [ ] [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
