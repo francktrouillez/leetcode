@@ -36,6 +36,7 @@ LeetCode proposed solutions by Franck Trouillez
 - [ ] [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
   - [Ruby implementation](16.%203Sum%20Closest/ruby/script1.rb)
 - [ ] [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+  - [Ruby implementation](17.%20Letter%20Combinations%20of%20a%20Phone%20Number/ruby/script1.rb)
 - [ ] [18. 4Sum](https://leetcode.com/problems/4sum/)
 - [ ] [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
