@@ -38,6 +38,7 @@ LeetCode proposed solutions by Franck Trouillez
 - [ ] [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
   - [Ruby implementation](17.%20Letter%20Combinations%20of%20a%20Phone%20Number/ruby/script1.rb)
 - [ ] [18. 4Sum](https://leetcode.com/problems/4sum/)
+  - [Ruby implementation](18.%204Sum/ruby/script1.rb)
 - [ ] [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [ ] [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
